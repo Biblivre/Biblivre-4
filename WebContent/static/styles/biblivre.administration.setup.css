@@ -1,0 +1,8 @@
+#progress_popup fieldset {
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+#biblivre3import .fields, #biblivre3restore .fields {
+  margin-left: 100px;
+}
